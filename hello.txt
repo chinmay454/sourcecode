@@ -1,3 +1,9 @@
+import random
+
+def number_guessing_game():
+    number_to_guess = random.randint(1, 100)
+    attempts = 0
+    print("Welcome to the Number
 There was once an old umbrella hanging forgotten behind a dusty door in a little antique shop. It was black, had a silver handle shaped like a crow’s head, and no one wanted it because it always seemed damp — even on sunny days.
 
 hello world hii hello
