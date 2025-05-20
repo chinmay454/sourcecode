@@ -1,5 +1,5 @@
-amity university bengaluru is situated in chapparadakallu
-
+ amity university bengaluru is situated in chapparadakallu
+it is lush green campus with high tech infrastructure
 def number_guessing_game():
     number_to_guess = random.randint(1, 100)
     attempts = 0
