@@ -1,4 +1,4 @@
-import random
+amity university bengaluru is situated in chapparadakallu
 
 def number_guessing_game():
     number_to_guess = random.randint(1, 100)
