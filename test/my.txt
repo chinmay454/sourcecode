@@ -1,0 +1,4 @@
+this is my fileHEAD
+amity university bengaluru is a campus situated in chapparadakallu
+Create the repo with name of TEST and create two files with .c and .txt extension. Create 4 branches B1,B2,B3,B4 and merge all branches in the B3 and push the data to NEW repo on GITHUB with name of TEST_23MAY.
+
